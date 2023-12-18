@@ -14,7 +14,7 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.0
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/sirupsen/logrus v1.8.1
-	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
+	golang.org/x/crypto v0.17.0
 )
 
 require (
@@ -31,8 +31,8 @@ require (
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/mattn/go-ieproxy v0.0.1 // indirect
 	github.com/pierrec/lz4/v4 v4.1.11 // indirect
-	golang.org/x/net v0.0.0-20211118161319-6a13c67c3ce4 // indirect
-	golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/net v0.10.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 )
